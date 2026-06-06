@@ -1,5 +1,14 @@
 # Intelligent Classroom Ecosystem
 
+
+
+<img width="1911" height="1020" alt="002192" src="https://github.com/user-attachments/assets/63f52c4d-c69d-40cc-b2ca-5c90cc02f8e0" />
+<img width="1911" height="1020" alt="002191" src="https://github.com/user-attachments/assets/3dd12591-3dba-48b2-a7e4-9a35246ec6b0" />
+<img width="1911" height="1020" alt="002190" src="https://github.com/user-attachments/assets/5aa3332c-c174-44da-9b82-03b47058f2d9" />
+<img width="1911" height="1020" alt="002189" src="https://github.com/user-attachments/assets/e23fb86a-0f5a-4c4f-98e0-8431886b6c0f" />
+<img width="1911" height="1020" alt="002188" src="https://github.com/user-attachments/assets/9afb2faa-d342-4166-836a-1f0ca9e63a49" />
+
+
 ## Overview
 
 The Intelligent Classroom Ecosystem is an AI-powered hybrid classroom platform designed to automate attendance management, identify student learning gaps, and generate personalized revision content using Generative AI.
